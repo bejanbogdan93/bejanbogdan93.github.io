@@ -1,3 +1,3 @@
 function notice(){
-    alert("This page is under development! Status: ~10%.");
+    alert("This page is under development! Status: ~5%.");
 }
